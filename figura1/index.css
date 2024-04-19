@@ -94,9 +94,6 @@ b {
 @media (max-width:375px){
     body {
         background-color: #fff
-        
-        
-        
     }
     
     .section-back{
@@ -119,7 +116,7 @@ b {
         height: 100%;
         margin: 0px;
      }
-     .box-section-left{
+    .box-section-left{
          display: flex;
          flex-direction: column;
          font-family: Arial, Helvetica, sans-serif;
@@ -128,7 +125,7 @@ b {
          margin: 0px;
          padding: 0px;
      }
-     ul {
+    ul {
          display: flex;
          flex-direction: column;
          justify-content: left;
@@ -136,34 +133,34 @@ b {
          left: -10px;
          font-size: 17px;
      }
-     li{
+    li{
      
          display: flex;
          justify-content: left;
          margin: 5px;
      }
-     h1 {
+    h1 {
          font-size: 37px;
          display:flex ;
          height: 15px;
          margin-top: 0px;
      }
-     p{
+    p{
          font-size: 17px;
          height: 10px;
      }
-     b {
+    b {
          font-size: 13px;
          margin-top: 15px;
      }
-     .email {
+    .email {
          width: 97%;
          height: 50px;
          margin-top: 15px;
          border-radius: 15px;
          border: 1px solid #999;
      }
-     .button{
+    .button{
          color: #fff;
          font-size: 18px;
          width: 99%;
@@ -172,7 +169,7 @@ b {
          border-radius: 10px;
          margin-top: 15px;
      }
-     .img-list {
+    .img-list {
          position: relative;
          top: 20px;
          left: -9px;
@@ -182,16 +179,16 @@ b {
          display: inline-block;
          flex-direction: row;
      }
-     .img-icon {
+    .img-icon {
         margin: 12px;
 
      }
-     .img-left {
+    .img-left {
         width: 0px;
          height: 0px;
          margin: 0px;
      }
-     .img-mobile{
+    .img-mobile{
         width: 106%;
         height: 100%;
         position: relative;
